@@ -351,12 +351,12 @@ EXAMPLES:
   -C, --clear                Clear the screen
   -i, --interval=INTERVAL    Refreash interval(secs), default 5s.
   -m, --mnt=MNTPOINT         the special mount point
-  -o, --opcode=OPCODE        Trace file r/w, defalut both.
+  -o, --opcode=OPCODE        Trace file r/w, default both.
   -p, --pid=PID              Trace the pid only
   -s, --sort=SORT            Sort r/w/wb, default read
   -t, --times=TIMES          Trace times
   -T, --top=TOP              show the topN (1~8192)
-  -v, --view=VIEW            p:pids view, f: files view, defaut file view
+  -v, --view=VIEW            p:pids view, f: files view, default file view
   -?, --help                 Give this help list
       --usage                Give a short usage message
 ```
