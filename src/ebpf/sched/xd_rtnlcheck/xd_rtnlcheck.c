@@ -171,7 +171,7 @@ int main(int argc, char **argv)
 	}
 
 	if (load_kallsyms()) {
-		printf("falied to process /proc/kallsyms\n");
+		printf("failed to process /proc/kallsyms\n");
 		ret = -1;
 		goto cleanup;
 	}
